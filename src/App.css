@@ -1,5 +1,13 @@
-.App {
+.app {
   text-align: center;
+  background-color: #f5f5f5;
+  font-family: "Bai Jamjuree";
+}
+
+@font-face {
+  font-family: "Bai Jamjuree";
+  src: url("./resourses/fonts/BaiJamjuree-Regular.ttf");
+  font-weight: 400;
 }
 
 .App-logo {
